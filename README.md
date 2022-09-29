@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**in-source-it/in-source-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 We are specialists in simple but elegant mobile and web apps
 
-Here are some ideas to get you started:
+🌱 Like to Learn and Update new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 We only collaborate with trustable People. If you are not, don't contact us, many thanks ❤️
+
+🤔 We are available to help from our trusable developer
+
+💬 Ask us about data analysis, web app, and mobile app
+
+📫 How to reach us: [insourceit@info](info@insourceit.co.nz)
+
+😄 Pronouns: [InSource IT](https://www.insourceit.co.nz)
+
+⚡ Fun fact: Know Something for Something
