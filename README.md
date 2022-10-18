@@ -10,7 +10,7 @@
 
 💬 Ask us about data analysis, web app, and mobile app
 
-📫 How to reach us: [insourceit@info](info@insourceit.co.nz)
+📫 How to reach us: [info@insourceit.co.nz](info@insourceit.co.nz)
 
 😄 Pronouns: [InSource IT](https://www.insourceit.co.nz)
 
